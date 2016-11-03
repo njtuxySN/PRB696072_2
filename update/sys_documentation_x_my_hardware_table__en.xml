@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-11-03 20:37:02</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>0542c136533222006baaa041eec5871d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>my_hardware Table</sys_name>
